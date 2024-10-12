@@ -1,0 +1,21 @@
+{
+    "hero": {
+      "title": "Learnhub Academy",
+      "subtitle": "Become the best version of yourself",
+      "courses": "All Courses you need in one place",
+      "welcome_button": "Watch our Welcome Video"
+    },
+    "welcome": {
+      "button": "Watch our second Video"
+    },
+    "why_learnhub": {
+      "button": "Stay in Contact with us"
+    },
+    "contact": {
+      "facebook_alt": "facebook",
+      "instagram_alt": "instagram",
+      "youtube_alt": "youtube",
+      "linkedin_alt": "linkedin"
+    }
+  }
+  

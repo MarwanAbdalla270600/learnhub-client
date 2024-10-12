@@ -1,0 +1,21 @@
+{
+    "hero": {
+      "title": "أكاديمية ليرنهاب",
+      "subtitle": "كن أفضل نسخة من نفسك",
+      "courses": "جميع الدورات التي تحتاجها في مكان واحد",
+      "welcome_button": "شاهد فيديو الترحيب"
+    },
+    "welcome": {
+      "button": "شاهد الفيديو الثاني"
+    },
+    "why_learnhub": {
+      "button": "ابق على تواصل معنا"
+    },
+    "contact": {
+      "facebook_alt": "فيسبوك",
+      "instagram_alt": "إنستجرام",
+      "youtube_alt": "يوتيوب",
+      "linkedin_alt": "لينكدإن"
+    }
+  }
+  
