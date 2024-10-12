@@ -48,7 +48,7 @@
 		<a
 			href="#why-learnhub"
 			class="h-auto px-6 py-4 text-2xl font-semibold rounded-2xl btn btn-primary w-fit"
-			>Watch our second Video</a
+			>Why should you use Learnhub?</a
 		>
 	</section>
 
